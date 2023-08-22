@@ -1,0 +1,126 @@
+{
+  "main": {
+    "name": "Zuck Xu",
+    "description": "Coding is not just about building software; it's a journey of self-improvement. Each line of code you write is a step towards a better version of yourself",
+    "image": "profilepic.jpg",
+    "bio": "I have proudly dedicated three years to my journey as a self-taught software developer, where my relentless passion fuels continuous self-improvement and the creation of innovative products through the application of novel concepts",
+    "contactmessage": "Here is where you should write your message to readers to have them get in contact with you.",
+    "email": "zxu@abcintelligence.ai",
+    "github": "https://github.com/nordicgiant2/react-nice-resume",
+    "project": "https://github.com/nordicgiant2/react-nice-resume",
+    "address": {
+      "street": "(Your Street)",
+      "city": "(Your City)",
+      "state": "(Your State)",
+      "zip": "(Your Zip/Postal Code)"
+    },
+    "website": "http://www.timbakerdev.com",
+    "resumedownload": "http://timbakerdev.com",
+    "social": [
+      {
+        "name": "facebook",
+        "url": "https://github.com/nordicgiant2/react-nice-resume",
+        "className": "fa fa-facebook"
+      },
+      {
+        "name": "twitter",
+        "url": "http://twitter.com",
+        "className": "fa fa-twitter"
+      },
+      {
+        "name": "linkedin",
+        "url": "https://www.linkedin.com/in/tim-baker-8420009a/",
+        "className": "fa fa-linkedin"
+      },
+      {
+        "name": "instagram",
+        "url": "http://instagram.com/tbaker_x",
+        "className": "fa fa-instagram"
+      },
+      {
+        "name": "github",
+        "url": "https://github.com/nordicgiant2/react-nice-resume",
+        "className": "fa fa-github"
+      }
+    ]
+  },
+  "resume": {
+    "skillmessage": "Here you can create a short write-up of your skills to show off to employers",
+    "education": [
+      {
+        "school": "Concordia University",
+        "degree": "Mathematics and Statistics",
+        "graduated": "April 2020",
+        "description": "Describe your experience at school, what you learned, what useful skills you have acquired etc."
+      }
+    ],
+    "work": [
+      {
+        "company": "ABC-intelligence",
+        "title": "Software developer: backend developer",
+        "years": "2022.09 – Present",
+        "description": "Engaged in seamless deployment using the AWS product suite, optimizing operational efficiency and leveraging cloud-based solutions for enhanced scalability"
+      },
+      {
+        "company": "Hausvalet",
+        "title": "Lead software developer: full-stack developer",
+        "years": "2021.06 - 2022.09",
+        "description": "Managed React-based web and React Native mobile apps while overseeing Node.js backend maintenance. Boosted productivity through Azure-based automation tools."
+      },
+      {
+        "company": "Crew-sync",
+        "title": "Frontend web developer",
+        "years": "2021.06 - 2022.09",
+        "description": "Designed, developed and implemented all frontend pages with over 30 reusable React components"
+      }
+    ],
+    "skills": [
+      {
+        "name": "NodeJS",
+        "level": "85%"
+      },
+      {
+        "name": "ReactJs",
+        "level": "80%"
+      },
+      {
+        "name": "VR - Unity",
+        "level": "50%"
+      },
+      {
+        "name": "Python",
+        "level": "60%"
+      },
+      {
+        "name": "Android Development",
+        "level": "70%"
+      },
+      {
+        "name": "IOS Development",
+        "level": "70%"
+      }
+    ]
+  },
+  "portfolio": {
+    "projects": [
+      {
+        "title": "Hausvalet VR",
+        "category": "Browse and view all the Hausvalet real estate properties in a full 360 experience",
+        "image": "hausvalet_vr.png",
+        "url": "https://apps.apple.com/ca/app/hausvalet-vr/id1596353498"
+      },
+      {
+        "title": "Geek It!",
+        "category": "GEEK-IT! is the marketplace for the geeks! It is where you can find thousands of products",
+        "image": "geekit.png",
+        "url": "https://geekit.app/"
+      },
+      {
+        "title": "Vetgenus",
+        "category": "Better Data for Healthier Lives",
+        "image": "abc.png",
+        "url": "https://vetgenus.com/"
+      }
+    ]
+  }
+}
